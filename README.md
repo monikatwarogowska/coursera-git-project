@@ -1,4 +1,7 @@
-#Coursera git project#
-**TITLE:**  *guessing-game*
-**DATE:**  mer. 06 sept. 2017 18:18:19 CEST
-**NUMBER OF LINES**:  41
+<h1> Coursera git project </h1>
+
+ **TITLE:** guessinggame.sh 
+
+ **DATE:**  Wed Sep 6 18:32:55 2017 
+
+ **NUMBER OF LINES**:  41
